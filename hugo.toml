@@ -16,7 +16,7 @@ homeIntroContent = """
 description = "Stinky's portfolio"
 
 # Appearance settings
-theme = 'auto'
+theme = 'light'
 colorPalette = 'default'
 hideHeader = false
 
