@@ -1,0 +1,40 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'stinky does art'
+theme = 'typo'
+enableEmoji = true
+
+
+[params]
+homeIntroTitle = 'Art should stink!'
+
+homeIntroContent = """
+![Make art that sucks! Says a man with a combover and glasses](/images/art_sucks.png)
+"""
+
+# Meta description
+description = "Stinky's portfolio"
+
+# Appearance settings
+theme = 'auto'
+colorPalette = 'default'
+hideHeader = false
+
+paginationSize = 100
+
+# footer
+showFooter = true
+footerContent = "Made with ❤ in Oakland, CA"
+
+# Main menu pages
+[[params.menu]]
+name = "home"
+url = "/"
+
+[[params.menu]]
+name = "zines"
+url = "/zines"
+
+[[params.menu]]
+name = "about"
+url = "/about"
