@@ -15,5 +15,19 @@
       <guid>http://localhost:1313/zines/not-hats/</guid>
       <description>Are any of these things hats?</description>
     </item>
+    <item>
+      <title>Stinky&#39;s Badly Drawn Dogs</title>
+      <link>http://localhost:1313/zines/bad-dogs/</link>
+      <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zines/bad-dogs/</guid>
+      <description>A mini zine of badly drawn dogs</description>
+    </item>
+    <item>
+      <title>Bad Tattoos</title>
+      <link>http://localhost:1313/zines/bad-tattoos/</link>
+      <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zines/bad-tattoos/</guid>
+      <description>A mini zine tattoos you should NOT get</description>
+    </item>
   </channel>
 </rss>
