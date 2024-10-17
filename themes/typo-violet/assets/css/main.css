@@ -530,16 +530,6 @@ blockquote p {
     flex-wrap: wrap;
 }
 
-@media screen and (max-width: 600px) {
-  .photo-list {
-    flex-direction: column
-  }
-
-  .photo-list li:last-child {
-    flex-grow: 1;
-    border: none;
-}
-}
 
 .photo-list>* {
     height: 30vh;
@@ -563,4 +553,19 @@ blockquote p {
 
 .a-title {
   text-decoration: none; 
+}
+
+@media screen and (max-width: 600px) {
+  .photo-list {
+    flex-direction: column
+  }
+
+  .photo-list>* {
+    height: auto;
+  }
+
+  .photo-list li:last-child {
+    flex-grow: 1;
+    border: none;
+  }
 }
