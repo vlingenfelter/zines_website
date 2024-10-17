@@ -1,10 +1,7 @@
 ---
-title: "Routine"
-date: "2023-09-28T07:57:25+01:00"
-description: "A black and white photo of a level crossing with barriers down across the road. A train coming from left to right across the image has just entered the crossing. On the far side of the tracks, brick building line the railway. On the near side, a bike rests against the warning lights."
-resources:
-- title: Routine
-  src: 'IMG_1175.jpeg'
+title: "Rat"
+date: "2024-06-13"
+description: "Carved on pink rubber from an Amazon drop shipper with the basic speedball tools, printed with water soluable Blick brand black ink, printed on 65 lb white cardstock, and scanned with a home printer."
 ---
 
 ## Challenge

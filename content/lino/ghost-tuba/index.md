@@ -1,7 +1,7 @@
 ---
-title: "Ghost Tuba Player"
+title: "Ghost Marching Band -- the tuba"
 date: "2024-06-22"
-description: "A ghost playing the tuba"
+description: "Carved on pink rubber from an Amazon drop shipper with the basic speedball tools, printed with water soluable Blick brand black ink, printed on 65 lb white cardstock, and scanned with a home printer."
 ---
 
 ## Challenge
