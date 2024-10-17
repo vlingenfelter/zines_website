@@ -47,5 +47,9 @@ name = "zines"
 url = "/zines"
 
 [[params.menu]]
+name = "lino"
+url = "/lino"
+
+[[params.menu]]
 name = "about"
 url = "/about"
