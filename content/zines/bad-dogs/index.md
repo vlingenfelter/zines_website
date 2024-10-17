@@ -1,5 +1,5 @@
 ---
-title: "[mini] Stinky's Badly Drawn Dogs"
+title: "Stinky's Badly Drawn Dogs"
 date: "2024-08-30"
 summary: "A mini zine of badly drawn dogs"
 description: "A mini zine of badly drawn dogs."

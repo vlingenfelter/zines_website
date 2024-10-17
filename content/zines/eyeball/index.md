@@ -1,5 +1,5 @@
 ---
-title: "[mini] How to Melt an Eyeball"
+title: "How to Melt an Eyeball"
 date: "2023-12-01"
 summary: "A mini zine about how to melt an eyeball."
 description: "A mini zine about how to melt an eyeball."

@@ -13,6 +13,16 @@ Make the art you want to see! Make it even if it sucks! Even if it downright sti
 ![Make art that sucks! Says a man with a combover and glasses](/images/art_sucks.png)
 """
 
+# Collection to display on home
+# homeCollectionTitle = 'Posts'
+# homeCollection = 'zines'
+
+# Lists parameters
+# paginationSize = 100
+listSummaries = true
+listDateFormat = 'Jan 2 2006'
+
+
 # Meta description
 description = "Stinky's portfolio"
 

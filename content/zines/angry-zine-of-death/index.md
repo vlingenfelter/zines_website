@@ -1,5 +1,5 @@
 ---
-title: "[mini] Angry Wrath Zine of Death"
+title: "Angry Wrath Zine of Death"
 date: "2024-07-21"
 summary: "A mini zine for expressing rage."
 description: "A mini zine for expressing rage."

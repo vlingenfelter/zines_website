@@ -1,7 +1,7 @@
 ---
-title: "[mini] These Things Are Not Hats"
+title: "These Things Are Not Hats"
 date: "2024-10-12"
-summary: "Are any of these things hats?"
+summary: "Are any of these things hats? This mini zine will tell you."
 description: "A mini zine about things that are not hats"
 toc: false
 readTime: false
