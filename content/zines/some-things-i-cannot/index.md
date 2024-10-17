@@ -1,6 +1,6 @@
 ---
 title: "Some Things I Cannot Give You"
-date: "2024-01-22"
+date: "2024-01-18"
 summary: "A mini emotional mini zine"
 description: "A mini emotional mini zine"
 toc: false

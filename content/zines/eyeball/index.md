@@ -1,6 +1,6 @@
 ---
 title: "How to Melt an Eyeball"
-date: "2023-12-01"
+date: "2023-11-18"
 summary: "A mini zine about how to melt an eyeball."
 description: "A mini zine about how to melt an eyeball."
 toc: false

@@ -1,6 +1,6 @@
 ---
 title: "Brain Dammage"
-date: "2024-01-28"
+date: "2024-01-20"
 summary: "A mini zine discussing the importance of protecting your noggin."
 description: "A mini zine discussing the importance of protecting your noggin."
 toc: false
