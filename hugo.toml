@@ -38,13 +38,17 @@ showFooter = true
 footerContent = "Made with ❤ in Oakland, CA"
 
 # Main menu pages
-[[params.menu]]
-name = "home"
-url = "/"
+# [[params.menu]]
+# name = "home"
+# url = "/"
 
 [[params.menu]]
 name = "zines"
 url = "/zines"
+
+[[params.menu]]
+name = "lino"
+url = "/lino"
 
 [[params.menu]]
 name = "about"

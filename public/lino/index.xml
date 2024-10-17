@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linoes on stinky does art</title>
+    <link>http://localhost:1313/lino/</link>
+    <description>Recent content in Linoes on stinky does art</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/lino/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ghost Marching Band -- bass drum</title>
+      <link>http://localhost:1313/lino/ghost-bass-drum/</link>
+      <pubDate>Sat, 22 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/lino/ghost-bass-drum/</guid>
+      <description>&lt;h2 id=&#34;challenge&#34;&gt;Challenge&lt;/h2&gt;&#xA;&lt;p&gt;The theme was routine. The constraints were full manual, no editing outside of the camera.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ghost Marching Band -- the tuba</title>
+      <link>http://localhost:1313/lino/ghost-tuba/</link>
+      <pubDate>Sat, 22 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/lino/ghost-tuba/</guid>
+      <description>&lt;h2 id=&#34;challenge&#34;&gt;Challenge&lt;/h2&gt;&#xA;&lt;p&gt;The theme was routine. The constraints were full manual, no editing outside of the camera.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Rat</title>
+      <link>http://localhost:1313/lino/rat-1/</link>
+      <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/lino/rat-1/</guid>
+      <description>&lt;h2 id=&#34;challenge&#34;&gt;Challenge&lt;/h2&gt;&#xA;&lt;p&gt;The theme was routine. The constraints were full manual, no editing outside of the camera.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Folk instruments -- the washboard</title>
+      <link>http://localhost:1313/lino/washboard/</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/lino/washboard/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Maidenhair fern</title>
+      <link>http://localhost:1313/lino/maidenhair-fern/</link>
+      <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/lino/maidenhair-fern/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Folk instruments -- the mandolin</title>
+      <link>http://localhost:1313/lino/mandolin/</link>
+      <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/lino/mandolin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Folk instruments -- the banjo</title>
+      <link>http://localhost:1313/lino/banjo/</link>
+      <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/lino/banjo/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
