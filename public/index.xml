@@ -51,6 +51,13 @@
       <description>A mini emotional mini zine</description>
     </item>
     <item>
+      <title>A snake, 6 drinks, and a lemon wedge</title>
+      <link>http://localhost:1313/zines/a-snake/</link>
+      <pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zines/a-snake/</guid>
+      <description>An experimental mini zine</description>
+    </item>
+    <item>
       <title>How to Melt an Eyeball</title>
       <link>http://localhost:1313/zines/eyeball/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
