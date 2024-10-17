@@ -1,0 +1,58 @@
+{{ define "main" }}
+
+<article itemscope itemType="https://schema.org/BlogPosting">
+    <header>
+        <h1>{{ .Title }}</h1>
+        <section class="meta">
+            {{ with .Date }}
+            {{ $dateMachine := . | time.Format "2006-01-02T15:04:05-07:00" }}
+            {{ $dateHuman := . | time.Format (default ":date_long" $.Site.Params.singleDateFormat) }}
+            <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
+            {{end}}
+
+            {{ with (.GetTerms "tags") }}
+            <ul class="tags">
+                {{ range . }}
+                <li class="tag">
+                    <span class="prefix">#</span>
+                    <a href="{{ .Permalink }}" title="{{ .LinkTitle }}">{{ .LinkTitle }}</a>
+                </li>
+                {{ end }}
+            </ul>
+            {{ end }}
+        </section>
+    </header>
+
+    <main itemprop="articleBody" class="md">
+    <p>{{$.Description}}</p>
+
+    {{ with .Resources.ByType "image" }}
+    {{ range . }}
+        {{ $image := .Fit "1024x1024" }}
+        <figure>
+            <img src="{{ $image.RelPermalink }}" alt="{{ $.Description }}">
+            <!-- <figcaption>{{ $.Description }}</figcaption> -->
+        </figure>
+
+        {{ if isset .Params "license" }}
+            {{ partial "cc-license.html" (dict "license" .Params.license "title" $image.Title "workURL" $.Page.Permalink "author" $.Site.Params.Author "authorURL" $.Site.BaseURL) }}
+        {{ else }}
+            {{ with $.Site.Params.photolicense }}
+            {{ partial "cc-license.html" (dict "license" $.Site.Params.photolicense "title" $image.Title "workURL" $.Page.Permalink "author" $.Site.Params.Author "authorURL" $.Site.BaseURL) }}
+            {{ end }}
+        {{ end }}
+
+    {{ end }}
+    {{ end }}
+
+
+    <!-- {{ block "content" . }} {{- .Content }} {{- end }} -->
+    </main>
+
+   
+</article>
+{{- end }}
+
+{{ define "header" }}
+{{- partial "header" . -}}
+{{ end }}

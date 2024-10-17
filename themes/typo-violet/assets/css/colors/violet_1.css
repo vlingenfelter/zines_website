@@ -1,0 +1,15 @@
+:root {
+    --content-primary: #264653;
+    --content-secondary: #264653;
+    --background: #FAECCA;
+    --code-background: rgb(249, 249, 249);
+    --code-border: rgb(229, 229, 229);
+}
+
+.dark {
+    --content-primary: #e9c46a;
+    --content-secondary: e9c46a;
+    --background: #264653;
+    --code-background: rgb(30, 30, 30);
+    --code-border: rgb(50, 50, 50);
+}
