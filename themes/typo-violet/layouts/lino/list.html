@@ -5,7 +5,7 @@
 </header>
 <section>
         {{ range .Pages.GroupByDate "2006"}}
-        -<h4>{{ .Key }}</h4> 
+        <h4>{{ .Key }}</h4> 
         <ol class="photo-list">
             {{ range .Pages }}
             {{ $firstImage := index (.Resources.ByType "image") 0 }} 
