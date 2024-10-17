@@ -9,32 +9,46 @@
     <lastBuildDate>Sat, 12 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>These Things Are Not Hats</title>
+      <title>[mini] These Things Are Not Hats</title>
       <link>http://localhost:1313/zines/not-hats/</link>
       <pubDate>Sat, 12 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/zines/not-hats/</guid>
       <description>Are any of these things hats?</description>
     </item>
     <item>
-      <title>Stinky&#39;s Badly Drawn Dogs</title>
+      <title>[mini] Stinky&#39;s Badly Drawn Dogs</title>
       <link>http://localhost:1313/zines/bad-dogs/</link>
       <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/zines/bad-dogs/</guid>
       <description>A mini zine of badly drawn dogs</description>
     </item>
     <item>
-      <title>Bad Tattoos</title>
+      <title>[mini] Angry Wrath Zine of Death</title>
+      <link>http://localhost:1313/zines/angry-zine-of-death/</link>
+      <pubDate>Sun, 21 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zines/angry-zine-of-death/</guid>
+      <description>A mini zine for expressing rage.</description>
+    </item>
+    <item>
+      <title>[mini] Bad Tattoos</title>
       <link>http://localhost:1313/zines/bad-tattoos/</link>
       <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/zines/bad-tattoos/</guid>
       <description>A mini zine tattoos you should NOT get</description>
     </item>
     <item>
+      <title>[mini] How to Melt an Eyeball</title>
+      <link>http://localhost:1313/zines/eyeball/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zines/eyeball/</guid>
+      <description>A mini zine about how to melt an eyeball.</description>
+    </item>
+    <item>
       <title>about</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;Stinky does about section?&#xA;&amp;#x2764;&amp;#xfe0f; hello&lt;/p&gt;&#xA;&lt;p&gt;Stinky codes? This website was made with Hugo and hosted on Github Pages.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Stinky does about section?&#xA;&amp;#x2764;&amp;#xfe0f; hello&lt;/p&gt;&#xA;&lt;p&gt;Stinky codes? This website was made with Hugo and hosted on Github Pages.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://violetlingenfelter.com&#34;&gt;Stinky does have another website&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

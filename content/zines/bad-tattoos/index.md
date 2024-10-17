@@ -1,5 +1,5 @@
 ---
-title: "Bad Tattoos"
+title: "[mini] Bad Tattoos"
 date: "2024-06-14"
 summary: "A mini zine tattoos you should NOT get"
 description: "A mini zine of tattoos you should NOT get"

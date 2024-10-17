@@ -9,25 +9,39 @@
     <lastBuildDate>Sat, 12 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/zines/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>These Things Are Not Hats</title>
+      <title>[mini] These Things Are Not Hats</title>
       <link>http://localhost:1313/zines/not-hats/</link>
       <pubDate>Sat, 12 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/zines/not-hats/</guid>
       <description>Are any of these things hats?</description>
     </item>
     <item>
-      <title>Stinky&#39;s Badly Drawn Dogs</title>
+      <title>[mini] Stinky&#39;s Badly Drawn Dogs</title>
       <link>http://localhost:1313/zines/bad-dogs/</link>
       <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/zines/bad-dogs/</guid>
       <description>A mini zine of badly drawn dogs</description>
     </item>
     <item>
-      <title>Bad Tattoos</title>
+      <title>[mini] Angry Wrath Zine of Death</title>
+      <link>http://localhost:1313/zines/angry-zine-of-death/</link>
+      <pubDate>Sun, 21 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zines/angry-zine-of-death/</guid>
+      <description>A mini zine for expressing rage.</description>
+    </item>
+    <item>
+      <title>[mini] Bad Tattoos</title>
       <link>http://localhost:1313/zines/bad-tattoos/</link>
       <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/zines/bad-tattoos/</guid>
       <description>A mini zine tattoos you should NOT get</description>
+    </item>
+    <item>
+      <title>[mini] How to Melt an Eyeball</title>
+      <link>http://localhost:1313/zines/eyeball/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zines/eyeball/</guid>
+      <description>A mini zine about how to melt an eyeball.</description>
     </item>
   </channel>
 </rss>
