@@ -9,44 +9,65 @@
     <lastBuildDate>Sat, 12 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/zine/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>These Things Are Not Hats (mini)</title>
+      <title>These Things Are Not Hats</title>
       <link>http://localhost:1313/zines/not-hats/</link>
       <pubDate>Sat, 12 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/zines/not-hats/</guid>
-      <description>Are any of these things hats?</description>
+      <description>Are any of these things hats? This mini zine will tell you.</description>
     </item>
     <item>
-      <title>Stinky&#39;s Badly Drawn Dogs (mini)</title>
+      <title>Stinky&#39;s Badly Drawn Dogs</title>
       <link>http://localhost:1313/zines/bad-dogs/</link>
       <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/zines/bad-dogs/</guid>
       <description>A mini zine of badly drawn dogs</description>
     </item>
     <item>
-      <title>Angry Wrath Zine of Death (mini)</title>
+      <title>Angry Wrath Zine of Death</title>
       <link>http://localhost:1313/zines/angry-zine-of-death/</link>
       <pubDate>Sun, 21 Jul 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/zines/angry-zine-of-death/</guid>
       <description>A mini zine for expressing rage.</description>
     </item>
     <item>
-      <title>Bad Tattoos (mini)</title>
+      <title>Bad Tattoos</title>
       <link>http://localhost:1313/zines/bad-tattoos/</link>
       <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/zines/bad-tattoos/</guid>
       <description>A mini zine tattoos you should NOT get</description>
     </item>
     <item>
-      <title>Brain Dammage (mini)</title>
+      <title>Brain Dammage</title>
       <link>http://localhost:1313/zines/brain-dammage/</link>
-      <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/zines/brain-dammage/</guid>
-      <description>A zine discussing the importance of protecting your noggin.</description>
+      <description>A mini zine discussing the importance of protecting your noggin.</description>
     </item>
     <item>
-      <title>How to Melt an Eyeball (mini)</title>
+      <title>Some Things I Cannot Give You</title>
+      <link>http://localhost:1313/zines/some-things-i-cannot/</link>
+      <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zines/some-things-i-cannot/</guid>
+      <description>A mini emotional mini zine</description>
+    </item>
+    <item>
+      <title>A snake, 6 drinks, and a lemon wedge</title>
+      <link>http://localhost:1313/zines/a-snake/</link>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zines/a-snake/</guid>
+      <description>An experimental mini zine</description>
+    </item>
+    <item>
+      <title>Midnight Tankas</title>
+      <link>http://localhost:1313/zines/midnight-tankas/</link>
+      <pubDate>Wed, 13 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zines/midnight-tankas/</guid>
+      <description>Using a mini zine as a coping mechanism for a rough night</description>
+    </item>
+    <item>
+      <title>How to Melt an Eyeball</title>
       <link>http://localhost:1313/zines/eyeball/</link>
-      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 18 Nov 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/zines/eyeball/</guid>
       <description>A mini zine about how to melt an eyeball.</description>
     </item>
