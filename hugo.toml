@@ -4,6 +4,7 @@ title = 'stinky does art'
 theme = 'typo-violet'
 enableEmoji = true
 
+
 pluralizeListTitles=false
 [params]
 homeIntroTitle = 'Art should stink!'
