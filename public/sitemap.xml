@@ -20,6 +20,9 @@
     <loc>http://localhost:1313/zines/</loc>
     <lastmod>2024-10-12T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/zines/tomato-turmoil/</loc>
+    <lastmod>2024-09-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/zines/bad-dogs/</loc>
     <lastmod>2024-08-30T00:00:00+00:00</lastmod>
   </url><url>
@@ -41,6 +44,9 @@
     <loc>http://localhost:1313/lino/rat-1/</loc>
     <lastmod>2024-06-13T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/lino/snoopy-bass/</loc>
+    <lastmod>2024-06-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/zines/brain-dammage/</loc>
     <lastmod>2024-01-20T00:00:00+00:00</lastmod>
   </url><url>
@@ -49,6 +55,12 @@
   </url><url>
     <loc>http://localhost:1313/zines/a-snake/</loc>
     <lastmod>2024-01-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/lino/snoopy-cool/</loc>
+    <lastmod>2024-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/lino/snoopy-bookworm/</loc>
+    <lastmod>2024-01-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/zines/midnight-tankas/</loc>
     <lastmod>2023-12-13T00:00:00+00:00</lastmod>

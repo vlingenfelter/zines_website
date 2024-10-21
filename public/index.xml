@@ -65,6 +65,13 @@
       <description>&lt;h2 id=&#34;challenge&#34;&gt;Challenge&lt;/h2&gt;&#xA;&lt;p&gt;The theme was routine. The constraints were full manual, no editing outside of the camera.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Rat</title>
+      <link>http://localhost:1313/lino/snoopy-bass/</link>
+      <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/lino/snoopy-bass/</guid>
+      <description>&lt;h2 id=&#34;challenge&#34;&gt;Challenge&lt;/h2&gt;&#xA;&lt;p&gt;The theme was routine. The constraints were full manual, no editing outside of the camera.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Brain Dammage</title>
       <link>http://localhost:1313/zines/brain-dammage/</link>
       <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
@@ -84,6 +91,20 @@
       <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/zines/a-snake/</guid>
       <description>An experimental mini zine</description>
+    </item>
+    <item>
+      <title>Snoopy (Joe Cool)</title>
+      <link>http://localhost:1313/lino/snoopy-cool/</link>
+      <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/lino/snoopy-cool/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Snoopy (bookworm)</title>
+      <link>http://localhost:1313/lino/snoopy-bookworm/</link>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/lino/snoopy-bookworm/</guid>
+      <description></description>
     </item>
     <item>
       <title>Midnight Tankas</title>
