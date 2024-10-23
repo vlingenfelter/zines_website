@@ -17,14 +17,14 @@ I made this zine at an RPS Collective zine workshop. It was done with Tombow bru
 
 I wanted a mini zine that changed as you unfolded it -- I want to make more like this one at some point.
 
-![Title page for Some Things I Cannot Give You](a-snake-1.jpg#small)
+![Title page for Some Things I Cannot Give You](a-snake-1.jpg#mini)
 
-![A white claw and one modelo](a-snake-2.jpg#small)
+![A white claw and one modelo](a-snake-2.jpg#mini)
 
-![One miller high life and pabst blue ribbon](a-snake-3.jpg#small)
+![One miller high life and pabst blue ribbon](a-snake-3.jpg#mini)
 
-![A blue moon and a last shot of sailor jerry's spiced rum](a-snake-4.jpg#small)
+![A blue moon and a last shot of sailor jerry's spiced rum](a-snake-4.jpg#mini)
 
-![Don't get scurvy (pictured is a lemon wedge)](a-snake-5.jpg#small)
+![Don't get scurvy (pictured is a lemon wedge)](a-snake-5.jpg#mini)
 
 ![The full zine (when revealed you can see a snake spread out between the pages)](a-snake-full-zine.jpg#small)

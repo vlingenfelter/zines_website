@@ -17,14 +17,14 @@ WARNING! This zine is graphic and contains depictions of body horror. Enter at y
 
 This mini zine was made in Oakland, CA in July of 2024 on 65 lb cardstock using Tombow pens and a black sharpie. This zine was made on a day where I got harassed by a strange man, after a series of cases of harassment. I was venting! 
 
-![Title page for Angry Wrath Zine of Death](wrath-1.jpg#small)
+![Title page for Angry Wrath Zine of Death](wrath-1.jpg#mini)
 
-![Zero tolerance for dicks! (A penis is being cut in half)](wrath-2.jpg#small)
+![Zero tolerance for dicks! (A penis is being cut in half)](wrath-2.jpg#mini)
 
-![Knock out their teeth!](wrath-3.jpg#small)
+![Knock out their teeth!](wrath-3.jpg#mini)
 
-![Put them to sleep! (A dead fish)](wrath-4.jpg#small)
+![Put them to sleep! (A dead fish)](wrath-4.jpg#mini)
 
-![Plant flowers on their graves](wrath-5.jpg#small)
+![Plant flowers on their graves](wrath-5.jpg#mini)
 
 ![The full zine](wrath-full-zine.jpg#small)

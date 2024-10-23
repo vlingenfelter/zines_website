@@ -17,14 +17,14 @@ WARNING! This zine is graphic and contains depictions of body horror. Enter at y
 
 This was the first zine I ever made! I made this at a zine making workshop at Rock Paper Scissors Collective in Oakland, CA. It was made on cardstock with a sharpie and a grey alcohol based marker (from the RPS stash).
 
-![Title page for How to Melt an Eyeball](eyeball-1.jpg#small)
+![Title page for How to Melt an Eyeball](eyeball-1.jpg#mini)
 
-![Doomscrolling and eyeball ice cream](eyeball-2.jpg#small)
+![Doomscrolling and eyeball ice cream](eyeball-2.jpg#mini)
 
-![Microwave accident and self immolation](eyeball-3.jpg#small)
+![Microwave accident and self immolation](eyeball-3.jpg#mini)
 
-![Giant magnifying glass and loving too hard](eyeball-4.jpg#small)
+![Giant magnifying glass and loving too hard](eyeball-4.jpg#mini)
 
-![End page](eyeball-5.jpg#small)
+![End page](eyeball-5.jpg#mini)
 
 ![The full zine](eyeball-full-zine.jpg#small)

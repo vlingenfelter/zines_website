@@ -17,15 +17,15 @@ This was the first zine I made digitially. I made this zine on an IPad Pro with 
 
 Jabriel, if you ever see this, I love you.
 
-![Title page for Midnight Tankas](midnight-tankas-1.jpg#small)
+![Title page for Midnight Tankas](midnight-tankas-1.jpg#mini)
 
-![First 2 poems](midnight-tankas-2.jpg#small)
+![First 2 poems](midnight-tankas-2.jpg#mini)
 
-![Second 2 poems](midnight-tankas-3.jpg#small)
+![Second 2 poems](midnight-tankas-3.jpg#mini)
 
-![Third 2 poems](midnight-tankas-4.jpg#small)
+![Third 2 poems](midnight-tankas-4.jpg#mini)
 
-![Explanation of what a tanka is](midnight-tankas-5.jpg#small)
+![Explanation of what a tanka is](midnight-tankas-5.jpg#mini)
 
 ![The scan of the full zine](midnight-tankas-full-zine.jpg#small)
 
