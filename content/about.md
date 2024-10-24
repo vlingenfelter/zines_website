@@ -5,9 +5,14 @@ readTime: false
 hideBackToTop: true
 ---
 
-Stinky does about section?
-:heart: hello
+:heart: Hello! My name is Violet and I am independent artist/zinester located in Oakland, CA! I am most prolific with making mini zines, but I also make longer/larger zines, linoleum prints, and other visual art. 
 
-Stinky codes? This website was made with Hugo and hosted on Github Pages.
+### Join my zine club!
 
-[Stinky does have another website](https://violetlingenfelter.com)
+If you want to get a zine in the mail from me every month, [join my zine club on Patreon!](https://patreon.com/stinky_does_art) Members get a mini zine in the mail once a month.
+
+### Follow me on socials!
+
+@stinky_does_art on Instagram
+
+@stinky_does_art on TikTok

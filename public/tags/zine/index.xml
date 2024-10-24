@@ -6,8 +6,15 @@
     <description>Recent content in Zine on stinky does art</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/zine/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Children of the Corn</title>
+      <link>http://localhost:1313/zines/children-of-the-corn/</link>
+      <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zines/children-of-the-corn/</guid>
+      <description>A fall crop themed mini-zine</description>
+    </item>
     <item>
       <title>These Things Are Not Hats</title>
       <link>http://localhost:1313/zines/not-hats/</link>
@@ -42,6 +49,20 @@
       <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/zines/bad-tattoos/</guid>
       <description>A mini zine tattoos you should NOT get</description>
+    </item>
+    <item>
+      <title>Familiar Faces, Imaginary Conversations</title>
+      <link>http://localhost:1313/zines/familiar-faces/</link>
+      <pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zines/familiar-faces/</guid>
+      <description>Messy drawings of people you don&amp;rsquo;t know</description>
+    </item>
+    <item>
+      <title>A Language of Flowers</title>
+      <link>http://localhost:1313/zines/language-of-flowers/</link>
+      <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zines/language-of-flowers/</guid>
+      <description>A new set of ways to express love</description>
     </item>
     <item>
       <title>Brain Dammage</title>
