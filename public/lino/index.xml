@@ -6,8 +6,15 @@
     <description>Recent content in Lino on stinky does art</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/lino/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Sun</title>
+      <link>http://localhost:1313/lino/sun-1/</link>
+      <pubDate>Tue, 29 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/lino/sun-1/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Ghost Marching Band -- bass drum</title>
       <link>http://localhost:1313/lino/ghost-bass-drum/</link>
